@@ -1,0 +1,40 @@
+http://www.bizhows.com/cms/designcenter/logo_design/
+
+https://www.codingfactory.net/11908 - 자바 스크립트를 이용한 난수 이용 방법
+
+https://m.blog.naver.com/PostView.nhn?blogId=co-nam&logNo=221449767721&proxyReferer=https:%2F%2Fwww.google.com%2F 
+//탭메뉴 해결해 주는 강좌
+
+
+https://m.blog.naver.com/belouga/221815545714 //sql express edition 및 db 쉽게 다운 받을 수 있는 사이트
+
+http://egloos.zum.com/springmvc/v/504151 -dispatch 관련 자료
+
+https://addio3305.tistory.com/62?category=772645 - spring 공부 도움 되는 곳
+
+
+https://cheese10yun.github.io/lombok/ - lombok 관련 설명 도움 되는 곳
+
+https://tworab.tistory.com/71 - bootstrap 관련 설명을 다루는 곳이다. 지금 컴퓨터에서는 에러가 나서 실행을 하지 못하고 있다.
+
+
+https://hello-walnuty.tistory.com/16  spring 데이터 값이동을 구체적으로 잘 설명을 해준 사이트 입니다.
+
+https://stufeel.tistory.com/8 = appservlet 오류관한 사이트
+
+
+//----------------------------------------------------------------------------------------------  생활 코딩--------------------------------------------------------------
+https://opentutorials.org/course/3085 생활코딩 자바스크립트와 관련됨
+
+
+https://opentutorials.org/course/3084/18891 생활코딩 html 부분에서 github이용해서 웹페이지 출력
+
+https://opentutorials.org/course/3084/18893  //아파치 서버 운영
+
+https://opentutorials.org/course/3084/18899 //방문자 분석 및 구글을 이용해 사이트를 알게 할 수가 있다.
+
+https://caniuse.com/  //그리드를 배우면서 알게 된 사이트 html명령어를 전세계적으로 쓸 수 있는지 없는지 어느 웹사이트에서 적용이 가능한지 알려주는 사이트입니다.
+
+https://opentutorials.org/module/552 //html5 사전 사이트
+
+
